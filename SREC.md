@@ -1,62 +1,79 @@
-### Proposal for Federal Legislation to Mandate Solar Renewable Energy Credits (SRECs) 
+### Proposal for Federal Legislation to Mandate Renewable Energy Consumption and Establish Renewable Energy Credits (RECs)
 
 #### Title:
-**Federal Solar Renewable Energy Credit (SREC) Program Act**
+**Federal Renewable Energy Credit (REC) Program and Major Energy Consumer Mandate Act**
 
 #### Purpose:
-To establish a nationwide requirement for utilities to offer Solar Renewable Energy Credits (SRECs) to promote the adoption of solar energy, reduce greenhouse gas emissions, and advance the United States towards a sustainable energy future.
+To establish a nationwide requirement for the largest energy consumers to ensure a portion of their energy consumption comes from renewable sources, either by direct production or through the purchase of Renewable Energy Credits (RECs). This legislation also aims to recognize RECs as a federally regulated financial instrument to facilitate their trade and encourage the development of renewable energy infrastructure.
 
 #### Section 1: Short Title
-This Act may be cited as the "Federal Solar Renewable Energy Credit (SREC) Program Act."
+This Act may be cited as the "Federal Renewable Energy Credit (REC) Program and Major Energy Consumer Mandate Act."
 
 #### Section 2: Findings
 The Congress finds that:
-1. Solar energy is a critical component of the nation’s renewable energy strategy.
-2. SRECs incentivize individuals and businesses to invest in solar energy systems.
-3. Only a few states currently mandate SREC programs, limiting the potential growth of solar energy nationwide.
-4. Federal legislation is necessary to ensure a uniform and effective SREC market across the United States.
+1. Renewable energy sources, including solar, wind, hydro, biomass, and geothermal, are essential for a sustainable energy future.
+2. Major energy consumers have a significant impact on national energy consumption and carbon emissions.
+3. RECs provide a mechanism for energy consumers to contribute to the growth of renewable energy, even if they cannot produce it directly.
+4. Recognizing RECs as a federally regulated financial instrument will enable a transparent market, encouraging investment in renewable energy technologies.
 
 #### Section 3: Definitions
 For the purposes of this Act:
-1. **Solar Renewable Energy Credit (SREC)**: A tradable credit that represents one megawatt-hour (MWh) of electricity generated from a solar energy system.
-2. **Utility**: Any public or private entity that provides electricity to end-users.
-3. **Renewable Portfolio Standard (RPS)**: A regulation that requires the increased production of energy from renewable sources, such as wind, solar, biomass, and geothermal.
+1. **Renewable Energy Credit (REC)**: A tradable certificate representing one megawatt-hour (MWh) of electricity generated from renewable energy sources, including solar, wind, hydro, biomass, and geothermal.
+2. **Major Energy Consumer**: Any entity, including corporations, organizations, and government bodies, with annual energy consumption exceeding a cap set by FERC, which may be based on total energy usage or a threshold amount (e.g., 100,000 MWh per year).
+3. **Renewable Portfolio Standard (RPS)**: A regulation requiring increased energy production from renewable sources.
 
-#### Section 4: Federal SREC Requirement
-1. **Mandate for Utilities**:
-   - All utilities operating within the United States shall be required to offer SRECs to their customers who generate solar energy.
-   - Utilities must purchase SRECs from customers at a fair market value, which will be determined and regulated by the Federal Energy Regulatory Commission (FERC).
+#### Section 4: REC Requirement for Major Energy Consumers
+1. **Mandate for Major Energy Consumers**:
+   - All major energy consumers within the United States are required to ensure that a specified portion of their energy consumption comes from renewable sources. This can be achieved either through direct production of renewable energy or by purchasing RECs.
+   - The initial required percentage of energy consumption from renewable sources shall be set at 10%, increasing incrementally to 30% over the next decade.
 
-2. **Renewable Energy Quotas**:
-   - Utilities must ensure that a specified percentage of their energy generation comes from renewable sources, including solar energy, by purchasing SRECs if they cannot meet this quota through their own renewable energy generation.
-   - The initial required percentage shall be set at 20% of total energy generation, with a gradual increase to 50% over the next ten years.
+2. **Flexibility and Compliance**:
+   - Major energy consumers can comply with the mandate by generating renewable energy on-site, purchasing renewable energy through power purchase agreements (PPAs), or buying RECs from the open market to cover any shortfall.
+   - FERC will determine the specific compliance requirements and provide guidance on acceptable forms of renewable energy sourcing.
+
+3. **REC Market and Trading**:
+   - RECs will be recognized as a federally regulated financial instrument, facilitating their trade on a transparent market.
+   - Renewable energy producers can issue RECs for sale to major energy consumers and other entities, creating a market-driven incentive for renewable energy generation.
 
 #### Section 5: Implementation and Enforcement
 1. **Federal Energy Regulatory Commission (FERC)**:
-   - FERC will oversee the implementation and regulation of the federal SREC program.
-   - FERC will establish a standardized pricing mechanism for SRECs to ensure fair compensation for solar energy producers.
+   - FERC will oversee the implementation, regulation, and monitoring of the REC program and market.
+   - FERC will set the cap for major energy consumers and the percentage of energy consumption to be covered by renewable energy or RECs.
+   - FERC will establish compliance tracking systems and ensure that REC transactions are recorded and transparent.
 
 2. **Compliance and Penalties**:
-   - Utilities failing to comply with the SREC purchase requirements will be subject to fines.
-   - Penalties collected from non-compliant utilities will be allocated to a federal renewable energy fund to support further development of solar infrastructure.
+   - Major energy consumers that fail to meet the renewable energy or REC purchase requirements will be subject to penalties.
+   - Collected penalties will fund federal renewable energy initiatives, supporting the development of renewable energy infrastructure and technologies.
 
-#### Section 6: Financial Incentives and Support
-1. **Federal Tax Credits**:
-   - Extension of federal tax credits for the installation of solar energy systems for both residential and commercial properties.
-   - Additional grants and subsidies will be made available to low-income households and small businesses to support the installation of solar energy systems.
+#### Section 6: Financial Instruments and Market Facilitation
+1. **Recognition of RECs**:
+   - RECs will be recognized as federally regulated financial instruments, facilitating their trade on regulated exchanges.
+   - FERC will develop standardized REC contracts and provide guidelines for trading practices.
 
-2. **Public Awareness Campaign**:
-   - A national campaign to educate the public on the benefits of solar energy and the opportunities provided by the federal SREC program.
+2. **Tax Credits and Subsidies**:
+   - Extension of federal tax credits for investments in renewable energy infrastructure and technology.
+   - Additional incentives for small businesses and non-profits to participate in the REC market.
 
-#### Section 7: Reporting and Review
+#### Section 7: Public and Corporate Engagement
+1. **Awareness Campaign**:
+   - A national campaign to educate the public, corporations, and government entities on the benefits of renewable energy and the REC program.
+
+2. **Incentives for Early Adoption**:
+   - Major energy consumers that exceed the required percentage of renewable energy consumption or REC purchases ahead of schedule will receive additional tax incentives and public recognition.
+
+#### Section 8: Reporting and Review
 1. **Annual Reporting**:
-   - Utilities will be required to submit annual reports to FERC detailing their compliance with the SREC program, including the number of SRECs purchased and the percentage of energy generated from renewable sources.
+   - Major energy consumers must submit annual reports to FERC detailing their energy consumption and the percentage covered by renewable energy or RECs.
 
 2. **Program Review**:
-   - A comprehensive review of the SREC program will be conducted every five years to assess its effectiveness and make necessary adjustments.
+   - A comprehensive review of the REC program and major energy consumer mandate will occur every five years to assess its effectiveness and suggest necessary adjustments.
 
-#### Section 8: Effective Date
+#### Section 9: Effective Date
 This Act shall take effect one year after the date of enactment.
 
-#### Section 9: Authorization of Appropriations
+#### Section 10: Authorization of Appropriations
 Such sums as may be necessary are authorized to be appropriated to carry out the provisions of this Act.
+
+---
+
+This legislation mandates that major energy consumers contribute to renewable energy adoption by directly producing renewable energy or purchasing RECs. By recognizing RECs as a federally regulated financial instrument, the Act creates a transparent and robust market that supports the development of renewable energy infrastructure and helps achieve national sustainability goals.
